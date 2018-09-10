@@ -18,6 +18,7 @@
   align-content: center;
 }
 .status-panel .st-card-back {
+  position: relative;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
